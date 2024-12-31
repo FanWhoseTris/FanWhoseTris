@@ -16,7 +16,6 @@
 
 
 ## 🔥 My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanWhoseTris&layout=compact&theme=dark)
 
 ![Phuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanWhoseTris&show_icons=true&theme=dark)
 
