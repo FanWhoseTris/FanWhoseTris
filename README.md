@@ -20,4 +20,3 @@
 ---
 [![Followers Badge](https://img.shields.io/github/followers/FanWhoseTris?style=for-the-badge&logo=github&color=blue&logoColor=black)](https://github.com/FanWhoseTris)
 [![Stars Badge](https://img.shields.io/github/stars/FanWhoseTris?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=red&logoColor=black&style=for-the-badge)](https://github.com/FanWhoseTris)
-[![](https://visitcount.itsvg.in/api?id=Phanasura&icon=0&color=0)](https://visitcount.itsvg.in)
