@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Tris Fang | 你好，我是 范友智
 ## From Viet Nam
-### 🚀 Industrial Automation Engineer & Tech Enthusiast | 工业自动化工程师
+### 🚀 Industrial Automation & Robotics Engineer, Tech Enthusiast | 工业自动化工程师
 
 <p align="center">
   <a href="https://www.facebook.com/FanWhoseTris/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
