@@ -17,7 +17,7 @@
 ### 👤 About Me | 关于我
 
 * 🔭 **Current Focus | XXX
-* 💡 **Interests | XXX
+* 💡 **Interests | 兴趣爱好:** Hardware-Software Integration, Workout & Chess *(软硬件结合、街头健身、国际象棋)*
 * 🎯 **2026 Goals |XXX
 
 ---
