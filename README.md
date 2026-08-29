@@ -48,7 +48,6 @@
     <td><b>Automation & CAD<br><i>工业自动化与CAD</i></b></td>
     <td>
       <img src="https://img.shields.io/badge/PLC%20Programming-006400?style=flat-square&logo=siemens&logoColor=white" />
-      <img src="https://img.shields.io/badge/AutoCAD-E510D5?style=flat-square&logo=autodesk&logoColor=white" />
       <img src="https://img.shields.io/badge/CAD%20Design-0696D7?style=flat-square&logo=autocad&logoColor=white" />
       <img src="https://img.shields.io/badge/MATLAB%20/%20Simulink-E16727?style=flat-square&logo=mathworks&logoColor=white" />
     </td>
