@@ -1,8 +1,8 @@
 ### 👤 About me:
-👋 Chao Xìn, I'm Tris Fang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  from VietNam 
+👋 Chao Xìn, I'm Tris Fang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  from Viet Nam 
 - ⭐: Chess, Gym, fishing ....(😅)
-- 🔭 Passion in something ... (😊)
-- 💪 2026 Goals: .............(😊)
+- 🔭: Passion in something ... (😊)
+- 💪: 2026 Goals: .............(😊)
 - 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/FanWhoseTris/)) 
