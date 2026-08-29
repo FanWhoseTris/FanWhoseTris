@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Tris Fang | 你好，我是 范友智
+# 👋 Hi there, I'm Tris Fang | 你好，我是 Tris Fang
 ## From Viet Nam
 ### 🚀 Industrial Automation & Robotics Engineer, Tech Enthusiast | 工业自动化工程师
 
