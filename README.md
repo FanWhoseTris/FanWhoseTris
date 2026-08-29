@@ -66,10 +66,10 @@
 
 ---
 
-### ✍️ Motto | 座右铭
-
-> *"我们不一样，每个人都有不同的境遇。"* > *(We are different; each of us walks a unique path.)*
+### ✍️ Wo men bu yi yang
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
 </div>
+
+> *只要我想走。路就在脚下"* 
